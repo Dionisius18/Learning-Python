@@ -1,0 +1,8 @@
+The line graph explain about CFC Emissions in 4 different countries that are Russia, Japan, India, and Germany from 2005 until 2009.
+In overall, india increased over the year from 2005 to 2006. But CFC Emessions in Russia climbed until reached a peek in 2008 then slow down in the next year. There was downtrend for Japan and Germany.
+In Russia is the highest CFC emissions production and India is the 3rd in our data. Over the period, Russia and India have same level in CFC Emissions. In 2005 until 2008 Russia and India had similar pattern that is uptrend. CFC Emissions in India climb gradually but Russia increased more slowly. In 2008, when India still increased their emissions then Russia start to decreased it.
+Japan is the second placed of CFC emissions production in the 2005, but there was a decrease in their emissions production until 2009 and to be the third place. German consistently decline their emission CFC production. Even Japan and German have a downtrend of their emission, but Japan make more impact on their emission production from 2008 to 2009.
+
+lets try again
+
+cools
